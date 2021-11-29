@@ -9,7 +9,7 @@ toc: true
 Bootstrap includes many [CSS custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) in its compiled CSS for real-time customization without the need to recompile Sass. These provide easy access to commonly used values like our theme colors, breakpoints, and primary font stacks when working in your browser's inspector, a code sandbox, or general prototyping.
 
 **All our custom properties are prefixed with `bs-`** to avoid conflicts with third party CSS.
-}
+}}
 
 ## Root variables
 
